@@ -2,4 +2,4 @@
 
 # Dom--Moving_an_item
 
-## [Проект](https://vmoiseev.github.io/Dom--Moving_an_item/)
+## [Проект](https://vmoiseev.github.io/Event-handling/)
